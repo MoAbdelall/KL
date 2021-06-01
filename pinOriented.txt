@@ -1,0 +1,6 @@
+(a: IN1 N7, IN2 N10, OUT N6)
+(b: IN1 N1, IN2 N2, OUT N3)
+(c: IN1 N6, IN2 N4, OUT N5)
+(d: IN1 N1, IN2 N2, OUT N3)
+(e: IN1 N4, IN2 N5, OUT N7)
+(f: IN1 N4, IN2 N5, OUT N7)
